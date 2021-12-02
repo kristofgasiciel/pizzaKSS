@@ -1,0 +1,37 @@
+body {
+    background-color:#19191a !important;
+}
+main {
+    color:white;
+}
+header {
+    color: white;
+    background-color:#141414 !important;
+}
+footer {
+    color: white;
+    background-color: #19191a;
+    text-align: center;
+    bottom: 0;
+}
+a { 
+    color:white;
+    text-decoration: none; 
+}
+a:hover {
+    color:grey;
+    font-size: 105%;
+}
+h4 {
+    font-size:65px;
+}
+p {
+    color:grey;
+}
+h3 {
+    font-size:30px;
+    color:#19191a;
+}
+
+
+
